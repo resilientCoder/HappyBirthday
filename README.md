@@ -1,2 +1,2 @@
 # HappyBirthday
-Happy Birthday Android card Example App
+Happy Birthday Android Birthday Card Example App
